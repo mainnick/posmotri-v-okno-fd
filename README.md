@@ -1,1 +1,1 @@
-[https://github.com/mainnick/posmotri-v-okno-fd]
+https://github.com/mainnick/posmotri-v-okno-fd
